@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558615693009.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "632001378",
+    "id" : "44DE3988",
+    "lastKnownWriteTime" : 1558703561,
+    "last_content_update" : 1558703561612,
+    "path" : "~/Jaqpot/proast/proasttest.R",
+    "project_path" : "proasttest.R",
+    "properties" : {
+        "cursorPosition" : "129,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
